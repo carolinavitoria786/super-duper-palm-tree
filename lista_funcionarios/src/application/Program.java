@@ -20,7 +20,7 @@ public class Program {
 		for (int i = 0; i < n; i++) {
 			System.out.println();
 			System.out.println("Employee #" + (i + 1) + ":");
-			System.out.print("Id: ");
+			System.out.print("Id: "); 
 			Integer id = sc.nextInt();
 			System.out.print("Name: ");
 			sc.nextLine();
